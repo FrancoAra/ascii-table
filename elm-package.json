@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Simple Int <=> Char/String ascii tables",
-    "repository": "https://github.com/warry/ascii-table.git",
+    "repository": "https://github.com/Warry/ascii-table.git",
     "license": "BSD3",
     "source-directories": [
         "src"
